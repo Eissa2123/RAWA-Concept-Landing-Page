@@ -1,31 +1,74 @@
-# RAWA Concept Landing Page
+# RAWA Landing Page
 
-RAWA is a conceptual landing page created as a front-end showcase project for a fictional financial operations brand.
+A modern finance-focused landing page designed for clarity, reporting visibility, and structured business workflows.
+
+## Links
+
+- [Live Demo](https://eissa2123.github.io/RAWA-Concept-Landing-Page/)
+- [Repository](https://github.com/Eissa2123/RAWA-Concept-Landing-Page)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white)
 
 ## Overview
 
-This project was designed to present a clean, modern, and structured landing page experience with a strong focus on visual clarity, responsive behavior, and polished interaction details.
+RAWA is a modern landing page concept for a financial operations platform.  
+It was designed to communicate clarity, process visibility, and operational structure through a clean interface and conversion-focused layout.
+
+## Screenshots
+
+### Home
+
+![RAWA Home](assets/images/rawa-home.png)
+
+### Services
+
+![RAWA Services](assets/images/rawa-services.png)
+
+### Solutions
+
+![RAWA Solutions](assets/images/rawa-solutions.png)
+
+### About
+
+![RAWA About](assets/images/rawa-about.png)
+
+### CTA / Demo
+
+![RAWA Demo](assets/images/rawa-demo.png)
+
+### Mobile View
+
+![RAWA Mobile](assets/images/rawa-mobile.png)
 
 ## Features
 
-- Responsive layout across desktop, tablet, and mobile
-- Sticky navigation
-- Smooth anchor scrolling
-- Back-to-top interaction
-- Clean section structure
-- SCSS-based styling architecture
-- Subtle footer signature and polished UI presentation
+- Sticky navigation with section-based scrolling
+- Clean financial SaaS-inspired layout
+- Responsive design for desktop and mobile
+- Visual KPI cards and structured content sections
+- Conversion-focused call-to-action areas
+- Modern typography, spacing, and soft UI styling
 
-## Tech Stack
+## Built With
 
 - HTML5
-- CSS3 / SCSS
+- SCSS / CSS3
 - JavaScript
+- Git
+- GitHub Pages
 
-## Purpose
+## Run Locally
 
-This project was created as a portfolio showcase to highlight front-end design and development quality. It is a concept project and does not represent a real company, product, or live business data.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Eissa2123/RAWA-Concept-Landing-Page.git
+   ```
+2. Open the project folder.
+3. Run the site using Live Server or any local development server.
 
 ## Author
 
-Designed & developed by Eissa Ba - Awaidhan
+Designed and developed by **Eissa Ba - Awaidhan**
