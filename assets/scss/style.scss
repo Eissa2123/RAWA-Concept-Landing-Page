@@ -181,13 +181,11 @@ ul {
 ========================================= */
 .site-header {
   position: sticky;
-  top: 0;
+  top: 16px;
   z-index: 100;
-  padding: 1.25rem 0;
-  background: rgba(248, 251, 252, 0.88);
-  backdrop-filter: blur(14px);
-  -webkit-backdrop-filter: blur(14px);
-  border-bottom: 1px solid rgba(15, 23, 42, 0.06);
+  padding: 0;
+  background: transparent;
+  border-bottom: none;
 }
 
 .site-header__inner {
@@ -195,6 +193,12 @@ ul {
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
+  padding: 1rem 1.25rem;
+  border-radius: 18px;
+  background: rgba(248, 251, 252, 0.88);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(15, 23, 42, 0.06);
 }
 
 .site-logo {
