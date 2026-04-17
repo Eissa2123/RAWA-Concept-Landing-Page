@@ -23,9 +23,9 @@ It was designed to communicate clarity, process visibility, and operational stru
 
 ## Screenshots
 
-### All Responsive View
+### Desktop View
 
-![RAWA Desktop](assets/images/rawa-all-framed.png)
+![RAWA Desktop](assets/images/rawa-desktop-framed.png)
 
 ### Services Section
 
