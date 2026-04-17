@@ -12,6 +12,10 @@ A modern finance-focused landing page designed for clarity, reporting visibility
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white)
 
+## Preview
+
+![RAWA Responsive Preview](assets/images/rawa-all-framed.png)
+
 ## Overview
 
 RAWA is a modern landing page concept for a financial operations platform.  
@@ -19,35 +23,27 @@ It was designed to communicate clarity, process visibility, and operational stru
 
 ## Screenshots
 
-### Home
+### All Responsive View
 
-![RAWA Home](assets/images/rawa-home.png)
+![RAWA Desktop](assets/images/rawa-all-framed.png)
 
-### Services
+### Services Section
 
 ![RAWA Services](assets/images/rawa-services.png)
 
-### Solutions
+### Solutions Section
 
 ![RAWA Solutions](assets/images/rawa-solutions.png)
 
-### About
+### Request Demo Section
 
-![RAWA About](assets/images/rawa-about.png)
-
-### CTA / Demo
-
-![RAWA Demo](assets/images/rawa-demo.png)
-
-### Mobile View
-
-![RAWA Mobile](assets/images/rawa-mobile.png)
+![RAWA Solutions](assets/images/rawa-demo.png)
 
 ## Features
 
 - Sticky navigation with section-based scrolling
 - Clean financial SaaS-inspired layout
-- Responsive design for desktop and mobile
+- Responsive design for desktop, tablet, and mobile
 - Visual KPI cards and structured content sections
 - Conversion-focused call-to-action areas
 - Modern typography, spacing, and soft UI styling
